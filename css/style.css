@@ -74,14 +74,64 @@ section {
     border-radius: 4px;
 }
 
-.label{
+.label1{
     margin-top: 10px;
     margin-bottom: 10px;
     color: rgb(255, 255, 255);
     background-color: #45ADF1;
     padding: 7px;
     font-size: 10px;
-    border-radius: 4px;
+    border-radius: 10px;
+}
+
+.label2{
+    margin-top: 10px;
+    margin-bottom: 10px;
+    color: rgb(255, 255, 255);
+    background-color: #9C73E4;
+    padding: 7px;
+    font-size: 10px;
+    border-radius: 10px;
+}
+
+.label3{
+    margin-top: 10px;
+    margin-bottom: 10px;
+    color: rgb(255, 255, 255);
+    background-color: #64C0A9;
+    padding: 7px;
+    font-size: 10px;
+    border-radius: 10px;
+}
+
+.label4{
+    margin-top: 10px;
+    margin-bottom: 10px;
+    color: rgb(255, 255, 255);
+    background-color: #F29E33;
+    padding: 7px;
+    font-size: 10px;
+    border-radius: 10px;
+}
+
+.label5{
+    margin-top: 10px;
+    margin-bottom: 10px;
+    color: rgb(255, 255, 255);
+    background-color: #D963A1;
+    padding: 7px;
+    font-size: 10px;
+    border-radius: 10px;
+}
+
+.label6{
+    margin-top: 10px;
+    margin-bottom: 10px;
+    color: rgb(255, 255, 255);
+    background-color: #B1C926;
+    padding: 7px;
+    font-size: 10px;
+    border-radius: 10px;
 }
 
 /* hr {
@@ -112,7 +162,6 @@ hr {
     height: 1px;
     border: 0;
     border-top: 1px solid #ffffff;
-    margin: 1em 0;
     padding: 0;
 }
 
