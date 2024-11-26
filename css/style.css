@@ -32,7 +32,7 @@ header img{
 }
 
 * {
-    font-family: "Rubik", sans-serif;;
+    font-family: "Rubik", sans-serif;
 }
 
 main {
@@ -68,7 +68,7 @@ section {
     margin-left: 2px;
     color: rgb(224, 224, 224);
     background-color: #ffffff;
-    padding: 5px;
+    padding: 7px;
     font-size: 10px;
     outline: 1px solid lightgrey;
     border-radius: 4px;
@@ -170,15 +170,19 @@ hr {
   color: rgb(69, 69, 69);
 }
 
+.triangle {
+    font-size: 25px;
+}
+
 .check {
-    color: rgb(86, 190, 86) ;
+    color: rgb(51, 174, 108);
     height: 3px;
     aspect-ratio: 1;
     background-color: white;
     border-radius: 50%;
-    border: 2px solid rgb(86, 190, 86);
+    border: 2px solid rgb(51, 174, 108);
     margin-right: 10px;
-    padding: 1px;
+    padding: 2px;
 }
 
 .cross {
